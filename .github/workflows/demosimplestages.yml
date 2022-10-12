@@ -42,7 +42,7 @@ jobs:
     # So I've created an environment called 'ramtinNeedsToApprove'
     # You can find it at Settings/Environment (note: some prerequisites)
     environment:
-      name: ramtinNeedsToApprove
+      name: rhishidag3opget
     runs-on: ubuntu-latest
     
     # Steps represent a sequence of tasks that will be executed as part of the job
